@@ -41,12 +41,6 @@
       "name": "Test 2",
       "phoneNumber": "0123456789",
       "email": "test2@gmail.com"
-    },
-    {
-      "id": "37cf33cb-e85c-4d04-b1c9-bcb55b581c72",
-      "name": "Test 3",
-      "phoneNumber": "3456789011",
-      "email": "test3@gmail.com"
     }
   ]
 }
